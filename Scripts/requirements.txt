@@ -1,0 +1,6 @@
+serpapi>=1.4.2
+pandas>=1.4
+openpyxl>=3.0
+nltk>=3.8
+# Or spacy if you want more advanced NLP
+spacy>=3.7
