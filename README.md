@@ -12,7 +12,7 @@ This pipeline processes patent data end-to-end:
 
 ---
 
-## ✅ What We Added Today
+## ✅ What We Added Today [2025-07-02]
 
 **🎯 Key features implemented:**
 - Integrated `sentence-transformers` for semantic similarity scoring.
