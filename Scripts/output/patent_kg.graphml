@@ -1,0 +1,723 @@
+<?xml version='1.0' encoding='utf-8'?>
+<graphml xmlns="http://graphml.graphdrawing.org/xmlns" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://graphml.graphdrawing.org/xmlns http://graphml.graphdrawing.org/xmlns/1.0/graphml.xsd"><key id="d2" for="edge" attr.name="relation" attr.type="string"/>
+<key id="d1" for="node" attr.name="title" attr.type="string"/>
+<key id="d0" for="node" attr.name="label" attr.type="string"/>
+<graph edgedefault="directed"><node id="Patent_1">
+  <data key="d0">Patent</data>
+  <data key="d1">A starter system for a vehicle</data>
+</node>
+<node id="Vaidyanathan HEMAVATHY">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Thalakku PANDIAN MANIKANDAN">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Arumugham SIVAKUMAR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Davinder KUMAR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="starter generator 125e">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="125e speed starter">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="201 comprising starter">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="increment starter 200">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="crankshaft 125b starter">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_2">
+  <data key="d0">Patent</data>
+  <data key="d1">Clutch actuator for an internal combustion engine</data>
+</node>
+<node id="Yalamuru Ramachandra BABU">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Krishnabhatta NAGARAJA">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Kandregula Srinivasa Rao">
+  <data key="d0">Inventor</data>
+</node>
+<node id="comprising clutch actuator">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising clutch actuation">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="operated clutch actuator">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="mechanism clutch actuator">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="clutch actuator">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_3">
+  <data key="d0">Patent</data>
+  <data key="d1">Crankcase ventilation</data>
+</node>
+<node id="Vimaladas Viji J. BABU">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Chandrasekaran SETHU">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Mohan D UMATE">
+  <data key="d0">Inventor</data>
+</node>
+<node id="comprises second crankcase">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising crankcase chamber">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="100 comprising crankcase">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising crankcase">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising crankcase 10">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_4">
+  <data key="d0">Patent</data>
+  <data key="d1">Vehicle controller</data>
+</node>
+<node id="Samraj Jabez Dhinagar">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Naga Kavitha KOMMURI">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Himadri Bhushan DAS">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Lakshminarayana PADHI">
+  <data key="d0">Inventor</data>
+</node>
+<node id="manual transmission controller">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="automated manual transmission">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="transmission controller vehicle">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="transmission controller">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="vehicle controller automated">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_5">
+  <data key="d0">Patent</data>
+  <data key="d1">A saddled vehicle</data>
+</node>
+<node id="Ramanathan Anantha Narayanan">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Kandasamy Malarkodi">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Dasarathan Sathishvaran">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Dhuri Amey Govind">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Rupesh Arvindakshan">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Kizakhakhara Chandrashekhar Hiran Kumar">
+  <data key="d0">Inventor</data>
+</node>
+<node id="vehicle comprising handlebar">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising handlebar assembly">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising handlebar cover">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="handlebar cover comprising">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="assembly saddled vehicle">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_6">
+  <data key="d0">Patent</data>
+  <data key="d1">Electrical machine</data>
+</node>
+<node id="Sreeju Sreedharan NAIR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Shamsuddeen NALAKATH">
+  <data key="d0">Inventor</data>
+</node>
+<node id="piece electrical machine">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="plurality drum magnetic">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="plurality sectorial magnetic">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="electromagnets electrical machine">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="plurality cover magnetic">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_7">
+  <data key="d0">Patent</data>
+  <data key="d1">Mounting of sensing element for a two-wheeled vehicle</data>
+</node>
+<node id="Anand MOTILAL PATIL">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Vijaya BHASKAR ADIGA">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Karunaharan VYTHILINGAM">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Venkata MANGARAJU KARANAM">
+  <data key="d0">Inventor</data>
+</node>
+<node id="twowheeled vehicle comprising">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising vehicle frame">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="axis twowheeled vehicle">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="28 twowheeled vehicle">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="vehicle twowheeled vehicle">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_8">
+  <data key="d0">Patent</data>
+  <data key="d1">Two-stroke internal combustion engine</data>
+</node>
+<node id="Melkote Viraraghavachar NARASIMHAN">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Varadha Iyengar LAKSHMINARASIMHAN">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Nagendra D KUMAR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Santosh Kumar MEGHANI">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Hulikuntaraya G">
+  <data key="d0">Inventor</data>
+</node>
+<node id="comprising piston 112">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="engine 100 comprising">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising piston">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprises exhaust port">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="108 comprising piston">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_9">
+  <data key="d0">Patent</data>
+  <data key="d1">Fuel cell system</data>
+</node>
+<node id="Vinod Kumar KONAGANTI">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Krishnamohan GEDDADI">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Samraj Jabez KHINAGAR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="comprises anode fuelling">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="anode fuel reformer">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="operation anode fuelling">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="comprising fuel cell">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="produce anode fuel">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_10">
+  <data key="d0">Patent</data>
+  <data key="d1">A system for selecting a ride mode of a vehicle and method thereof</data>
+</node>
+<node id="Avinash Gullyal">
+  <data key="d0">Inventor</data>
+</node>
+<node id="S Dhinesh Kumar">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Dipanjan MAZUMDAR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Chidambaram SUBRAMONIAM">
+  <data key="d0">Inventor</data>
+</node>
+<node id="second mode vehicle">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="100 vehicle control">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="vehicle 100 control">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="mode vehicle 100">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="vehicle 100 mode">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_11">
+  <data key="d0">Patent</data>
+  <data key="d1">Two-stroke internal combustion engine</data>
+</node>
+<node id="D Nagendra KUMAR">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Ramachandra Babu Yalamuru">
+  <data key="d0">Inventor</data>
+</node>
+<node id="146 stroke engine">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="stroke ic engine">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="stroke engine 100">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="combustion ic engine">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_12">
+  <data key="d0">Patent</data>
+  <data key="d1">Transmission cover for an engine</data>
+</node>
+<node id="Kandregu RAO">
+  <data key="d0">Inventor</data>
+</node>
+<node id="engine transmission cover">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="transmission cover engine">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="transmission cover comprising">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="transmission cover transmission">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="vehicle transmission cover">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="Patent_13">
+  <data key="d0">Patent</data>
+  <data key="d1">Internal combustion engine</data>
+</node>
+<node id="Varadarajan Ranganathan RAJAGOPALAN">
+  <data key="d0">Inventor</data>
+</node>
+<node id="K Kumar">
+  <data key="d0">Inventor</data>
+</node>
+<node id="Vythilingam KARUNAHARAN">
+  <data key="d0">Inventor</data>
+</node>
+<node id="combustion engine 100">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="crankshaft 104 tdc">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="crankshaft 104 internal">
+  <data key="d0">KeyPhrase</data>
+</node>
+<node id="202 exhaust valve">
+  <data key="d0">KeyPhrase</data>
+</node>
+<edge source="Patent_1" target="Vaidyanathan HEMAVATHY" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_1" target="Thalakku PANDIAN MANIKANDAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_1" target="Arumugham SIVAKUMAR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_1" target="Davinder KUMAR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_1" target="starter generator 125e" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_1" target="125e speed starter" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_1" target="201 comprising starter" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_1" target="increment starter 200" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_1" target="crankshaft 125b starter" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_2" target="Yalamuru Ramachandra BABU" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_2" target="Krishnabhatta NAGARAJA" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_2" target="Kandregula Srinivasa Rao" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_2" target="comprising clutch actuator" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_2" target="comprising clutch actuation" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_2" target="operated clutch actuator" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_2" target="mechanism clutch actuator" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_2" target="clutch actuator" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_3" target="Vimaladas Viji J. BABU" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_3" target="Chandrasekaran SETHU" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_3" target="Mohan D UMATE" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_3" target="Yalamuru Ramachandra BABU" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_3" target="comprises second crankcase" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_3" target="comprising crankcase chamber" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_3" target="100 comprising crankcase" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_3" target="comprising crankcase" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_3" target="comprising crankcase 10" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_4" target="Samraj Jabez Dhinagar" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_4" target="Naga Kavitha KOMMURI" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_4" target="Himadri Bhushan DAS" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_4" target="Lakshminarayana PADHI" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_4" target="manual transmission controller" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_4" target="automated manual transmission" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_4" target="transmission controller vehicle" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_4" target="transmission controller" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_4" target="vehicle controller automated" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_5" target="Ramanathan Anantha Narayanan" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_5" target="Kandasamy Malarkodi" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_5" target="Dasarathan Sathishvaran" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_5" target="Dhuri Amey Govind" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_5" target="Rupesh Arvindakshan" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_5" target="Kizakhakhara Chandrashekhar Hiran Kumar" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_5" target="vehicle comprising handlebar" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_5" target="comprising handlebar assembly" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_5" target="comprising handlebar cover" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_5" target="handlebar cover comprising" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_5" target="assembly saddled vehicle" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_6" target="Samraj Jabez Dhinagar" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_6" target="Sreeju Sreedharan NAIR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_6" target="Shamsuddeen NALAKATH" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_6" target="piece electrical machine" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_6" target="plurality drum magnetic" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_6" target="plurality sectorial magnetic" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_6" target="electromagnets electrical machine" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_6" target="plurality cover magnetic" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_7" target="Anand MOTILAL PATIL" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_7" target="Vijaya BHASKAR ADIGA" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_7" target="Karunaharan VYTHILINGAM" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_7" target="Venkata MANGARAJU KARANAM" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_7" target="twowheeled vehicle comprising" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_7" target="comprising vehicle frame" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_7" target="axis twowheeled vehicle" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_7" target="28 twowheeled vehicle" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_7" target="vehicle twowheeled vehicle" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_8" target="Melkote Viraraghavachar NARASIMHAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_8" target="Varadha Iyengar LAKSHMINARASIMHAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_8" target="Nagendra D KUMAR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_8" target="Santosh Kumar MEGHANI" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_8" target="Hulikuntaraya G" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_8" target="comprising piston 112" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_8" target="engine 100 comprising" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_8" target="comprising piston" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_8" target="comprises exhaust port" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_8" target="108 comprising piston" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_9" target="Vinod Kumar KONAGANTI" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_9" target="Krishnamohan GEDDADI" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_9" target="Samraj Jabez KHINAGAR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_9" target="comprises anode fuelling" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_9" target="anode fuel reformer" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_9" target="operation anode fuelling" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_9" target="comprising fuel cell" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_9" target="produce anode fuel" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_10" target="Avinash Gullyal" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_10" target="S Dhinesh Kumar" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_10" target="Dipanjan MAZUMDAR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_10" target="Chidambaram SUBRAMONIAM" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_10" target="second mode vehicle" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_10" target="100 vehicle control" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_10" target="vehicle 100 control" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_10" target="mode vehicle 100" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_10" target="vehicle 100 mode" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_11" target="Melkote Viraraghavachar NARASIMHAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_11" target="Varadha Iyengar LAKSHMINARASIMHAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_11" target="D Nagendra KUMAR" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_11" target="Ramachandra Babu Yalamuru" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_11" target="engine 100 comprising" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_11" target="146 stroke engine" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_11" target="stroke ic engine" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_11" target="stroke engine 100" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_11" target="combustion ic engine" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_12" target="Kandregu RAO" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_12" target="engine transmission cover" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_12" target="transmission cover engine" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_12" target="transmission cover comprising" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_12" target="transmission cover transmission" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_12" target="vehicle transmission cover" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_13" target="Melkote Viraraghavachar NARASIMHAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_13" target="Varadha Iyengar LAKSHMINARASIMHAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_13" target="Varadarajan Ranganathan RAJAGOPALAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_13" target="K Kumar" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_13" target="Vythilingam KARUNAHARAN" id="0">
+  <data key="d2">INVENTED_BY</data>
+</edge>
+<edge source="Patent_13" target="combustion engine 100" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_13" target="crankshaft 104 tdc" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_13" target="engine 100 comprising" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_13" target="crankshaft 104 internal" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+<edge source="Patent_13" target="202 exhaust valve" id="0">
+  <data key="d2">MENTIONS</data>
+</edge>
+</graph></graphml>
